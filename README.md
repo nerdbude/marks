@@ -1,5 +1,4 @@
 <p align="center"><img src="https://github.com/nerdbude/marks/raw/main/img/logo.png" width="150"></p>
-<h1 align="center">[ .marks ]</h1>
 
 <p align="center">
   <img src="/img/screenshot.png" width="400" />
