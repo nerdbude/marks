@@ -5,9 +5,46 @@
 </p>
 
 <p align="center">A small bookmark-manager for the commandline.</p>
+<p align="center">Build with Python without external frameworks or libraries.</p>
 
 ## WIP
 Status: alpha
+
+## Usage:
+
+```
+$> python marks.py
+```
+
+Show the Startscreen including the total number of bookmarks.
+
+```
+<<< MARKS >>>
+:: 23 Bookmarks
+>>>
+```
+
+From here you can use the following command:
+
+```
+add
+``` 
+Adding a new bookmark to collection. Asking for title, url and description.
+
+```
+show
+```
+Showing all saved bookmarks.
+
+```
+open
+```
+Asking which bookmark you want to open just enter the title of the bookmark.
+
+```
+del
+```
+Delete a bookmark just enter the title. 
 
 ## Contributing
 Feel free to contribute if you think something is not perfect.
