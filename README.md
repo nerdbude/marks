@@ -24,7 +24,8 @@ Show the Startscreen including the total number of bookmarks.
 >>>
 ```
 
-From here you can use the following command:
+### Commands:
+From here you can use the following commands
 
 ```
 add
